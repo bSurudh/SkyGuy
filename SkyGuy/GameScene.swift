@@ -31,7 +31,7 @@ class GameScene: SKScene {
     
     var joyStickMoved:Bool = false
     var upButtonTouched:Bool = false
-    var downButtonTouched:Bool = false
+    var downButtonTouched:Bool = false 
     var laserFired:Bool = false
     var alternator:Int  = 0
     
